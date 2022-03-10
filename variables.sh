@@ -28,4 +28,4 @@ echo First value of Array = ${c[0]}
 echo Third value of Array = ${c[2]}
 echo all values of Array = ${c[*]}
 
-echo Training = $(Training)
+echo Training = ${Training}
