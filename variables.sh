@@ -16,5 +16,5 @@ echo today date is %Date
 
 X=10
 Y=20
-ADD=$(($X+%Y))
+ADD=$(($X+$Y))
 echo Add = $ADD
