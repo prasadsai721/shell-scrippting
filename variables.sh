@@ -23,6 +23,6 @@ echo Add = $ADD
 
 # Array
 c=(10 20 small large)
-echo First value of Array = ${c[01]}
+echo First value of Array = ${c[0]}
 echo third value of Array = ${c[2]}
 echo all values of Array = ${c[*}
