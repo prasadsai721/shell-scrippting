@@ -13,3 +13,8 @@ echo today date is $Date
 
 Date=$(date +%F)
 echo today date is %Date
+
+x=10
+y=20
+ADD=$(($x+%y))
+echo Add = $ADD
