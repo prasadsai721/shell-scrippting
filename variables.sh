@@ -25,4 +25,4 @@ echo Add = $ADD
 c=(10 20 small large)
 echo First value of Array = ${c[0]}
 echo Third value of Array = ${c[2]}
-echo all values of Array = ${c[*}
+echo all values of Array = ${c[*]}
